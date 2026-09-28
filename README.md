@@ -35,7 +35,7 @@ The project combines theoretical research with practical prototype development t
 
 The circuit diagram represents the transmitter and receiver sections of the wireless power transmission system and shows the electrical arrangement used for transferring power between the two coils.
 
-![Wireless Power Transmission Circuit Diagram](sem3-circuit-diagram.jpeg)
+![Wireless Power Transmission Circuit Diagram](images/sem3-circuit-diagram.jpeg)
 
 ## 📈 Results
 
@@ -80,13 +80,13 @@ As the **Project Lead**, I was involved in understanding and coordinating the pr
 
 The final prototype demonstrates wireless power transfer using two coils functioning as the **transmitter and receiver**. The receiver coil obtains electrical energy through electromagnetic coupling from the transmitter coil and uses the received power to operate a small low-power electronic component.
 
-![Final Project Prototype](sem3-project-prototype.jpeg)
+![Final Project Prototype](images/sem3-project-prototype.jpeg)
 
 ## 🏆 Conference Certificate
 
 The research work was presented at the **IEEE-sponsored 2nd International Conference on Artificial Intelligence and Knowledge Discovery in Concurrent Engineering (ICECONF 2025)**, hosted by **St. Joseph's Institute of Technology, Chennai**.
 
-![Conference Certificate](sem3-project-certificate.jpeg)
+![Conference Certificate](images/sem3-project-certificate.jpeg)
 
 ## 📄 IEEE Publication Proof
 
@@ -94,7 +94,7 @@ The research work was formally compiled and published by **IEEE** following the 
 
 **DOI:** `10.1109/ICECONF65644.2025.11379536`
 
-![IEEE Published Paper Proof](sem3-IEEE-published-paper-proof.jpeg)
+![IEEE Published Paper Proof](images/sem3-IEEE-published-paper-proof.jpeg)
 
 ## 📥 Full Conference Paper
 
